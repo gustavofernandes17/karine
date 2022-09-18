@@ -64,14 +64,14 @@ function op_code
 
 Register Binary Codes
 
-NO REGISTER : 000
-L_REG1      : 001
-L_REG2      : 010
-ADDR_REG1   : 011
-ADDR_REG2   : 100
-Vi_REG1     : 101 
-Vi_REG2     : 110
-ALU_OUT     : 111
+L_REG1      : 000
+L_REG2      : 001
+ADDR_REG1   : 010
+ADDR_REG2   : 011
+Vi_REG1     : 100 
+Vi_REG2     : 101
+ALU_OUT     : 110
+NO_REGISTER : 111
 
 
 Micro Instructions 
